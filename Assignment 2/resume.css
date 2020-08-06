@@ -1,0 +1,59 @@
+img{
+	width:150px;
+	margin: 15%;
+	padding-right: 55px; 
+	border-radius: 20%;
+	border-left:  5px solid black;
+}
+body{
+	background-image: linear-gradient(to bottom right, white, green);
+}
+.div1{
+	float:left;
+	 background-image: linear-gradient(white,orange);
+	margin: 30px;
+	padding: 30px;
+	height: 10%;
+}
+.div2{
+	float: left;
+	padding: 20px;
+}
+table,th,td{
+	border:solid 2px black
+}
+.carobj>h1{
+	font-size: 30px;
+	background-image: linear-gradient(to bottom right, white, white);
+}
+.edu>h1{
+	font-size: 30px;
+	background-image: linear-gradient(to top right,white,black);
+}
+.skills>h1{
+	font-size: 30px;
+	background-image: linear-gradient(to top right,white,green);
+}
+.carobj>h1:hover{
+	text-align: center;
+	background-image: linear-gradient(to bottom right, black, white);
+}.edu>h1:hover{
+	text-align:center;
+	background-image: linear-gradient(to bottom right, black, white);
+}
+.skills>h1:hover{
+	text-align:center;
+	background-image: linear-gradient(to bottom right, black, white);
+}
+@media screen and (min-width: 320px) and (max-width: 680px){
+	body{
+		display: block;
+		width:auto;
+	}
+	.div2{
+		display: auto;
+	}
+	.div1{
+		font-size: 100px;
+	}
+}

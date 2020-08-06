@@ -1,0 +1,50 @@
+{
+	"details": {
+		"name": "Pullagura Rajesh",
+		"email": "rajeshchinna47@gmail.com",
+		"phoneno": "9000011222",
+		"address": "1/23 MainRoad Pulivendula",
+		"image": "pic.jpg"
+	},
+	"Hobbies": [
+		"playing chess",
+		"Browsing net"
+	],
+	"Languages": [
+		"English", "Hindi", "Telugu"
+	],
+	"carobj": {
+		"para":"I want to be a software developer and to be a vice president of any esteemed country"
+	},
+	"Education": [{
+			"year": "year",
+			"institution": "Institution",
+			"degree": "Degree",
+			"percentage": "Percentage"
+		},
+		{
+			"year": "2018-2022",
+			"institution": "Sri vidyanikethan engineering college",
+			"degree": "B-Tech",
+			"percentage": "90"
+		},
+		{
+			"year": "2016-2018",
+			"institution": "Narayana junior college",
+			"degree": "Intermediate(M.P.C)",
+			"percentage": "96"
+		}, {
+			"year": "2015-2016",
+			"institution": "Sri padmavathi high school",
+			"degree": "S.S.C",
+			"percentage": "95"
+		}
+	],
+	"skills": [
+		"Programming in python",
+		"Languages known are c,c++,java",
+		"Data structures",
+		"Ms office and Excel"
+	]
+
+}
